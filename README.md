@@ -18,8 +18,8 @@ There were (and are) some challenges during the development, that's because I li
 
 ## Hobbies
 
-<img alt="Mount Valinit view" src="./images/personal/mountains.jpeg" width="48%" />
-<img alt="Foggy fields" src="./images/personal/fog.jpeg" width="48%" />
+<img alt="Mount Valinit view" src="./images/personal/mountains.jpeg" width="45%" />
+<img alt="Foggy fields" src="./images/personal/fog.jpeg" width="45%" />
 
 ### My socials
 
