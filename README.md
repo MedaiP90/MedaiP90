@@ -18,26 +18,8 @@ There were (and are) some challenges during the development, that's because I li
 
 ## Hobbies
 
-<table cellspacing="0" cellpadding="0">
-<tr>
-  <td rowspan="2" style="width: 54%">
-    <img src="./images/personal/milky-way.jpeg" alt="Milky Way" />
-  </td>
-  <td>
-    <img src="./images/personal/mountains.jpeg" alt="Mount Valinit view" />
-  </td>
-</tr>
-<tr>
-  <td>
-    <img src="./images/personal/fog.jpeg" alt="Foggy fields" />
-  </td>
-</tr>
-<tr>
-  <td colspan="2" align="center">
-    <img src="./images/personal/crowford.jpeg" alt="Drawing" width="42%" />
-  </td>
-</tr>
-</table>
+<img alt="Mount Valinit view" src="./images/personal/mountains.jpeg" width="48%" />
+<img alt="Foggy fields" src="./images/personal/fog.jpeg" width="48%" />
 
 ### My socials
 
