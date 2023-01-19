@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello I'm MedaiP90 👋
 
-<!--
-**MedaiP90/MedaiP90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Views counter](https://komarev.com/ghpvc/?username=MedaiP90)
 
-Here are some ideas to get you started:
+## Favorite projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You may disagree, but the projects in my repo I like the most are:
+
+- ![MQTT5 Explorer](./images/mqtt5.png) → [MQTT5 Explorer](https://github.com/Omniaevo/mqtt5-explorer) ![HitCount MQTT5 Explorer](https://hits.dwyl.com/Omniaevo/mqtt5-explorer.svg?style=flat-square)
+- ![Cellular automaton](./images/automaton.ico) → [Cellular automaton](https://github.com/MedaiP90/game-of-life) ![HitCount Cellular automaton](https://hits.dwyl.com/MedaiP90/game-of-life.svg?style=flat-square)
+
+There were (and are) some challenges during the development, that's because I like them.
+
+## Hobbies
+
+![Mountain landscape from _mount Valinis_](./images/mountains.jpeg)
