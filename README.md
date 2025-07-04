@@ -22,6 +22,6 @@ There were (and are) some challenges during the development, that's because I li
 
 ### Social networks
 
-[![VERO](./images/vero.png)](https://vero.co/leocossu)
+[![The Foto App](./images/fotoapp.png)](https://the.fotoapp.co/medaip90)
 &nbsp;&nbsp;
 [![Instagram](./images/instagram.png)](https://www.instagram.com/medaip90/)
