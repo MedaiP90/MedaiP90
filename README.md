@@ -22,6 +22,8 @@ There were (and are) some challenges during the development, that's because I li
 
 ### Social networks
 
+[<img alt="Mount Valinit view" src="https://medaip90.netlify.app/assets/favicon.png" width="32px" />](https://medaip90.netlify.app/)
+&nbsp;&nbsp;
 [![Newgrain](./images/newgrain.png)](https://newgrain.app/leocossu)
 &nbsp;&nbsp;
 [![Instagram](./images/instagram.png)](https://www.instagram.com/medaip90/)
